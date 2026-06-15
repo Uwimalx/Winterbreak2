@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/api"
+  status = 200  # 200 表示重写（保持 URL 不变），而非重定向

@@ -1,4 +1,5 @@
 ### The vercel.app domains is blocked in China, so I port it to Netlify.
+### Besides, some Kindle can't access https urls,  so here is Cloudflare Worker site: `http://wb2.ux7.cc.cd/`{Don't use https!}
 ---
 # Winterbreak2
 
